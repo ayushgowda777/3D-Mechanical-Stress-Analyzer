@@ -1,0 +1,6 @@
+{
+  "name": "3D Mechanical Stress Analyzer",
+  "description": "Interactive 3D mechanical stress and deformation analyzer with real-time FEA heat map visualization, cross-section calculation, and deflection analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
